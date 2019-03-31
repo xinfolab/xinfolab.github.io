@@ -1,11 +1,11 @@
 ---
 title:  "블로그를 시작하는 이유"
 
-tag:
-  - github.io
-  - jekyll
 categories:
-  - Blog
+  - Chat
+
+layout: default
+comments: true
 last_modified_at: 2019-03-30T08:06:00-05:00
 ---
 github를 통해서 블로그를 개설할 수 있다는 건 오래 전에 알고 있었지만, 티스토리 블로그를 하고 있었고 다른 블로그로 옮기기 귀찮았기 때문에 방치해뒀네요. 그러다 지금 다시 블로그를 하려고 합니다.
