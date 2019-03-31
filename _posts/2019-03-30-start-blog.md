@@ -1,6 +1,9 @@
 ---
 title:  "블로그를 시작하기"
 
+tag:
+  - github.io
+  - jekyll
 categories:
   - Blog
 last_modified_at: 2019-03-30T08:06:00-05:00
