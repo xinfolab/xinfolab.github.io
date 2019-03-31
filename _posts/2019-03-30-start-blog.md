@@ -1,5 +1,5 @@
 ---
-title:  "블로그를 시작하기"
+title:  "블로그를 시작하는 이유"
 
 tag:
   - github.io
