@@ -4,7 +4,6 @@ title:  "블로그를 시작하는 이유"
 categories:
   - Chat
 
-layout: default
 comments: true
 last_modified_at: 2019-03-30T08:06:00-05:00
 ---
