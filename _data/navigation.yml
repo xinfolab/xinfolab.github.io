@@ -1,7 +1,9 @@
 main :
   - title: "Posts"
     url: /year-archive/
-  - title: "Sample Collections"
+  - title: "Categories"
+    url: /categories-archive/
+  - title: "Collections"
     url: /collection-archive/
   - title: "Sitemap"
     url: /sitemap/
